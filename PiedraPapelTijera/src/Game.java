@@ -1,7 +1,7 @@
 /**
  * Clase principal.
  * VersiÃ³n 1.0
- * Autor: Profesor Entorno Desarrollo
+ * Modificación: JuanMa Vázquez
  */
 public class Game {
 
